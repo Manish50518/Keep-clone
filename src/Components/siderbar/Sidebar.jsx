@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { AiOutlineBulb } from "react-icons/ai";
 import { IoArchiveOutline } from "react-icons/io5";
 import { RiDeleteBin6Line } from "react-icons/ri";

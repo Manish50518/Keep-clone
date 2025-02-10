@@ -1,6 +1,5 @@
 import { RiInboxUnarchiveFill } from "react-icons/ri";
 import useNoteStore from "../services/store";
-import { RiDeleteBin6Line } from "react-icons/ri";
 import { IoArchiveOutline } from "react-icons/io5";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
