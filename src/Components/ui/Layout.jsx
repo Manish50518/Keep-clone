@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from "react";
 import Sidebar from "../siderbar/Sidebar";
-import Header from "../Header/Header";
+import Header from "../header/Header";
 
 function Layout({ children }) {
   const [openSidebar, setOpenSidebar] = useState(true);
